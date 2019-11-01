@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrabalhoM22</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="quilo">Quilometragem</string>
+    <string name="litros">Litros</string>
+    <string name="posto">Posto</string>
+    <string name="data">Data</string>
+
+
+</resources>
